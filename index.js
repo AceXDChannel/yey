@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const TOKEN = "OTM2NDQ2MjYwNTQ0Njk2Mzcx.YfNTig.cEHzkg_0wbvseHeA5Qr-1FunHJw"
+const TOKEN = "OTM2NDQ2MjYwNTQ0Njk2Mzcx.YfNTig.RWX2O5TpgMl-0Hqks2_oxxWMcIs"
 
 const prefix = '=';
 
